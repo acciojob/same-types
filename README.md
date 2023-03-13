@@ -1,4 +1,4 @@
-# problem name
+# Same Types
 
 ## Instructions
 
